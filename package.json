@@ -69,8 +69,8 @@
     "dist"
   ],
   "dependencies": {
-    "@fluentui/react": "^8.1.8",
-    "vertical-stepper-nav": "^1.0.2"
+    "@fluentui/react-components": "^9.46.4",
+    "vertical-stepper-nav": "github:negagen/vertical-stepper-nav"
   },
   "alias": {
     "react": "./node_modules/react",
